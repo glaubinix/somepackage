@@ -1,15 +1,9 @@
 {
-    "name": "wissem/somepackage",
+    "name": "glaubinix/somepackage",
     "version": "1.0.0",
     "description": "Some package",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "wissem",
-            "email": "wissemr@gmail.com"
-        }
-    ],
     "minimum-stability": "dev",
     "dist": {
        "type": "zip",
